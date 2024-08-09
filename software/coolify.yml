@@ -1,0 +1,17 @@
+# software name
+name: "Coolify"
+# URL of the software project's homepage
+website_url: "https://coolify.io/"
+source_code_url: "https://github.com/coollabsio/coolify"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "An open-source & self-hostable Heroku / Netlify / Vercel alternative."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - K8s
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Self-hosting Solutions
